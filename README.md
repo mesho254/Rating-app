@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: 
+- Live Site URL: [Live Site URL](https://mesho254.github.io/Rating-app/)
 
 ## My process
 
@@ -57,5 +57,5 @@ I have learned not to let perfection stops me to finish this project and Share i
 
 ## Author
 
-- Frontend Mentor - [@theamiralizadeh](https://www.frontendmentor.io/profile/theamiralizadeh)
-- Linkedin - [@amir-alizadeh](https://www.linkedin.com/in/amir-alizadeh/)
+- Frontend Mentor - [@mesho254](https://www.frontendmentor.io/profile/mesho254)
+- Linkedin - [@meshak-otieno](https://www.linkedin.com/in/meshak-otieno/)
